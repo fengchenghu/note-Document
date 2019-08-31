@@ -9,6 +9,7 @@
     通过使用--interactive或--patch选项与git commit命令一起确定除了索引中的内容之外哪些文件或hunks应该是提交的一部分，然后才能完成操作。
 
 
+
 - git push                                      将本地仓库推送到远程仓库
 - git status                                    命令用于显示工作目录和暂存区的状态
 - git tag                                       命令用于创建，列出，删除或验证使用GPG签名的标签对象
